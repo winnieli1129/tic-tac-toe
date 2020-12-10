@@ -1,3 +1,8 @@
+# Tic-Tac-Toe
+Base on [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+This is a interact 2-player tic tac toe game build with react with time travels (i.e. history of moves).
+<br/><br/><br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
